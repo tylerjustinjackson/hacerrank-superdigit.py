@@ -120,3 +120,4 @@ super_digit(P) = super_digit(123123123)
                = super_digit(1+8)
                = super_digit(9)
                = 9
+![image](https://github.com/tylerjustinjackson/superdigit_hackerrank_CSCTA/assets/109995249/c3bb2dba-c3c3-4d35-aa28-715e37b1b836)
